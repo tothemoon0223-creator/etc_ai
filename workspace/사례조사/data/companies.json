@@ -1,0 +1,267 @@
+[
+  {
+    "id": 1,
+    "company": "Exyte",
+    "country": "독일",
+    "category": "Fab 전문 EPC/EPCM",
+    "segment": "반도체·디스플레이 Fab",
+    "technologies": "5D BIM, Digital Facilities Twin, 생성형 AI 레이아웃",
+    "maturity": "③상용운영",
+    "roi": "설계~커미셔닝 전주기 가시성",
+    "links": [
+      {
+        "title": "Exyte Smart Manufacturing",
+        "url": "https://www.exyte.net/en/Markets/advanced-technology-facilities/Smart-Manufacturing"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "company": "Bechtel",
+    "country": "미국",
+    "category": "대형 EPC",
+    "segment": "반도체 Fab, AI 데이터센터",
+    "technologies": "Data Mesh, AR 현장 오버레이, 오프사이트 모듈화",
+    "maturity": "③상용운영",
+    "roi": "1,000만 job-hours 주공정 분리",
+    "links": [
+      {
+        "title": "Bechtel — Accelerating Semiconductor Fab Construction",
+        "url": "https://www.bechtel.com/blog/accelerating-semiconductor-fab-construction/"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "company": "Jacobs",
+    "country": "미국",
+    "category": "EPCM",
+    "segment": "반도체 Fab, 제약 클린룸",
+    "technologies": "NVIDIA Omniverse 디지털트윈, 시뮬레이션",
+    "maturity": "②도입초기",
+    "roi": "설계변경 비용 절감(라이프사이클 앞단 이동)",
+    "links": [
+      {
+        "title": "Jacobs Digital Twins",
+        "url": "https://www.jacobs.com/solutions/digital-twins"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "company": "Hensel Phelps",
+    "country": "미국",
+    "category": "전문 시공/GC",
+    "segment": "반도체 Fab(Intel)",
+    "technologies": "4D/5D 스케줄링, AI 모델체크, 리얼리티캡처",
+    "maturity": "③상용운영",
+    "roi": "클래시·RFI 감소, 재작업 단축",
+    "links": [
+      {
+        "title": "Hensel Phelps Technology",
+        "url": "https://www.henselphelps.com/the-hensel-phelps-way/technology/"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "company": "Hoffman Construction",
+    "country": "미국",
+    "category": "전문 시공/GC",
+    "segment": "반도체 Fab(Intel Fab 42)",
+    "technologies": "BIM/VDC 기반 클린룸 시공",
+    "maturity": "③상용운영",
+    "roi": "대형 Fab 프로젝트 디지털 관리",
+    "links": [
+      {
+        "title": "Hoffman — Intel Fab 42",
+        "url": "https://www.hoffmancorp.com/project/fab-42/"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "company": "Mortenson",
+    "country": "미국",
+    "category": "대형 GC/EPC",
+    "segment": "데이터센터, 산업",
+    "technologies": "전담 AI 조직, 데이터 애널리틱스, BIM/VDC",
+    "maturity": "②도입초기",
+    "roi": "AI 도입 거버넌스 선제 구축",
+    "links": []
+  },
+  {
+    "id": 7,
+    "company": "Turner Construction",
+    "country": "미국",
+    "category": "대형 GC",
+    "segment": "상업·산업 빌딩",
+    "technologies": "실시간 데이터, BIM360, AI 안전·진척",
+    "maturity": "③상용운영",
+    "roi": "$15M 절감·무재해(Salesforce Tower)",
+    "links": []
+  },
+  {
+    "id": 8,
+    "company": "DPR Construction",
+    "country": "미국",
+    "category": "대형 GC",
+    "segment": "반도체·생명과학 클린룸",
+    "technologies": "BIM 기반 디지털트윈, VDC",
+    "maturity": "②도입초기",
+    "roi": "클린룸·O&M 디지털트윈 적용",
+    "links": []
+  },
+  {
+    "id": 9,
+    "company": "Fluor",
+    "country": "미국",
+    "category": "대형 EPC",
+    "segment": "산업플랜트, 에너지",
+    "technologies": "디지털 프로젝트 딜리버리, BIM, AWP",
+    "maturity": "③상용운영",
+    "roi": "AWP·디지털딜리버리 표준화",
+    "links": []
+  },
+  {
+    "id": 10,
+    "company": "AECOM",
+    "country": "미국",
+    "category": "대형 E/설계",
+    "segment": "교통·빌딩·수자원·에너지",
+    "technologies": "전 분야 BIM 통합, 디지털트윈",
+    "maturity": "③상용운영",
+    "roi": "전 분야 BIM 표준화",
+    "links": []
+  },
+  {
+    "id": 11,
+    "company": "Skanska",
+    "country": "스웨덴/미국",
+    "category": "대형 EPC/GC",
+    "segment": "상업·산업·인프라",
+    "technologies": "Sidekick(GPT 챗봇), AI 안전분석, BIM Analytics",
+    "maturity": "③상용운영",
+    "roi": "생산성·지식공유 향상(자체 클라우드)",
+    "links": [
+      {
+        "title": "Skanska AI",
+        "url": "https://www.usa.skanska.com/who-we-are/media/constructive-thinking/how-ai-is-revolutionizing-productivity-efficiency-and-knowledge-sharing/"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "company": "Vinci / Hochtief",
+    "country": "프랑스/독일",
+    "category": "대형 EPC",
+    "segment": "인프라, 빌딩, 양허사업",
+    "technologies": "디지털트윈·AI 유지보수, BIM",
+    "maturity": "②도입초기",
+    "roi": "운영단 신규 수익·보증비용 절감",
+    "links": []
+  },
+  {
+    "id": 13,
+    "company": "CTCI",
+    "country": "대만",
+    "category": "대형 EPC",
+    "segment": "반도체·플랜트 턴키",
+    "technologies": "BIM→3D 디지털트윈, Mr.AI 관리",
+    "maturity": "③상용운영",
+    "roi": "준공시 물리공장+디지털공장 동시인도",
+    "links": [
+      {
+        "title": "CTCI Digital Twin / O&M",
+        "url": "https://www.ctci.com/www/ctci2022/page.aspx?L=EN&C=0106"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "company": "United Integrated Services(漢唐)",
+    "country": "대만",
+    "category": "Fab 전문 시공",
+    "segment": "TSMC·Micron Fab 건설",
+    "technologies": "Fab 클린룸 시공 전문, 캐파빌리티 디지털화",
+    "maturity": "③상용운영",
+    "roi": "수주잔고 2030까지 가시성",
+    "links": []
+  },
+  {
+    "id": 15,
+    "company": "Obayashi",
+    "country": "일본",
+    "category": "대형 종합건설",
+    "segment": "빌딩·인프라·산업",
+    "technologies": "Autodesk Research AI, 설계·배치 최적화",
+    "maturity": "②도입초기",
+    "roi": "설계·배치 계획 가속",
+    "links": []
+  },
+  {
+    "id": 16,
+    "company": "Shimizu",
+    "country": "일본",
+    "category": "대형 종합건설",
+    "segment": "빌딩·산업, 스마트현장",
+    "technologies": "Smart Site - AI 자율로봇, BIM",
+    "maturity": "②도입초기",
+    "roi": "고위험 작업 로봇대체로 안전 향상",
+    "links": []
+  },
+  {
+    "id": 17,
+    "company": "Kajima",
+    "country": "일본",
+    "category": "대형 종합건설",
+    "segment": "댐·빌딩·인프라",
+    "technologies": "자동화 시공(로봇·AI), 토공·콘크리트 자동화",
+    "maturity": "②도입초기",
+    "roi": "자동화 댐시공 세계최초 실증",
+    "links": []
+  },
+  {
+    "id": 18,
+    "company": "Takenaka",
+    "country": "일본",
+    "category": "대형 종합건설",
+    "segment": "빌딩",
+    "technologies": "인하우스 로보틱스, BIM+IoT",
+    "maturity": "②도입초기",
+    "roi": "사내 로봇 솔루션으로 배치효율 경쟁우위",
+    "links": []
+  },
+  {
+    "id": 19,
+    "company": "Samsung E&A",
+    "country": "대한민국",
+    "category": "Fab/플랜트 EPC",
+    "segment": "반도체·디스플레이·2차전지",
+    "technologies": "클린룸 시공 핵심역량, 디지털 설계",
+    "maturity": "②도입초기",
+    "roi": "클린룸 EPC 경쟁력(정량 비공개)",
+    "links": [
+      {
+        "title": "Samsung E&A Industrial",
+        "url": "https://www.samsungena.com/en/business/business-project/industrial"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "company": "Hyundai E&C",
+    "country": "대한민국",
+    "category": "대형 EPC",
+    "segment": "건축·플랜트, 스마트현장",
+    "technologies": "드론→2D맵·3D 디지털트윈, Physical AI",
+    "maturity": "②도입초기",
+    "roi": "24시간 무인 스마트현장 시연",
+    "links": [
+      {
+        "title": "Hyundai E&C Physical AI 현장",
+        "url": "https://www.hdec.kr/kr/newsroom/news_view.aspx?NewsSeq=1451&NewsType=JOURNAL&NewsListType=news_clist"
+      }
+    ]
+  }
+]
