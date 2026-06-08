@@ -16,7 +16,7 @@ interface CompanyData {
   updated_at?: string;
 }
 
-export async function POST(request: NextRequest) {
+export async function POST(_request: NextRequest) {
   try {
     const client = new Anthropic();
 

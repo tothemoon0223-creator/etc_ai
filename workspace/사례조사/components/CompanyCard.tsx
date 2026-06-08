@@ -16,7 +16,6 @@ interface CompanyCardProps {
 }
 
 export default function CompanyCard({
-  id,
   company,
   country,
   category,
