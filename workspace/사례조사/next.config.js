@@ -1,9 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/etc_ai",
+  basePath: process.env.NODE_ENV === "production" ? "/etc_ai" : "",
   images: {
     unoptimized: true,
+  },
+  typescript: {
+    ignoreBuildErrors: false,
   },
 };
 
